@@ -10,7 +10,7 @@
 
 > Press The Following Button To Deploy In Heroku.
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/AL3X-Github/RenameBot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-Bule?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/AL3X-Github/RenameBot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 <h3 align="center">
     ─「 𝐵𝑜𝑡 𝐹𝑒𝑎𝑡𝑢𝑟𝑒𝑠 」─
