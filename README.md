@@ -78,8 +78,9 @@ login - (when password is given) to login to bot
 ```
 
 <h3 align="center">
-    ─「  」─
-</h3>## Laste update v0.2🤧
+    ─「 𝐿𝑎𝑠𝑡𝑒𝑡 𝑈𝑝𝑑𝑎𝑡𝑒 」─
+</h3>
+
 - [ ] Adding broadcast command 
 - [ ] Adding ban and unban commands
 - [ ] Increasing error handlers
@@ -87,7 +88,7 @@ login - (when password is given) to login to bot
 - [ ] Some settings for Admins
 
 <h3 align="center">
-    ─「 Support & Updates  」─
+    ─「 𝑆𝑢𝑝𝑝𝑜𝑟𝑡 & 𝑈𝑝𝑑𝑎𝑡𝑒𝑠 」─
 </h3>
 <div align="center">
 
