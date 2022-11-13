@@ -78,7 +78,7 @@ login - (when password is given) to login to bot
 ```
 
 <h3 align="center">
-    ─「 𝐿𝑎𝑠𝑡𝑒𝑡 𝑈𝑝𝑑𝑎𝑡𝑒 」─
+    ─「 𝐿𝑎𝑡𝑒𝑠𝑡 𝑈𝑝𝑑𝑎𝑡𝑒 」─
 </h3>
 
 - [ ] Adding broadcast command 
